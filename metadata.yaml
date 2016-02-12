@@ -1,0 +1,25 @@
+_repo: La-Granda-Admiralo-Unua-vojago-cirkau-la-mondo_51069
+creator:
+  author:
+    agent_name: Omelka, František
+    aliases:
+    - Omelka, F.
+    - Omelka, Frantisek
+    birthdate: 1904
+    deathdate: 1960
+    gutenberg_agent_id: '31795'
+    url: http://www.gutenberg.org/2009/agents/31795
+    wikipedia: http://eo.wikipedia.org/wiki/Franti%C5%A1ek_Omelka
+description: ''
+gutenberg_issued: '2016-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51069'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magalhães, Fernão de, -1521'
+title: 'La Granda Admiralo: Unua vojaĝo ĉirkaŭ la mondo'
+url: http://www.gutenberg.org/ebooks/51069
